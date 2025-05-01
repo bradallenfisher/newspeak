@@ -70,10 +70,10 @@ Choosing the correct *foundation type* demands collaboration between civil engin
 - Economic viability
 - Long-term durability and safety
 
-For further insights and expert guidance in **foundation engineering**, visit [Newspeak Today Foundation Engineering](https://newspeak.today/foundation-engineering).
+For further insights and expert guidance in **foundation engineering**, visit [Newspeak Today Foundation Engineering](https://newspeak.today/posts/foundation-engineering).
 
 ## Conclusion
 
 Both **deep foundations** and **shallow foundations** play integral roles in civil and **foundation engineering** projects. While shallow foundations excel in favorable soil conditions, deep foundations provide indispensable support for complex, heavy-load structures. Understanding the geotechnical parameters and site-specific challenges is essential in making informed decisions that secure structural performance and safety.
 
-**Ready to explore your project’s foundation needs?** Engage with a qualified *geotechnical engineer* today and ensure your structure stands on a solid foundation.
+**Ready to explore your project's foundation needs?** Engage with a qualified *geotechnical engineer* today and ensure your structure stands on a solid foundation.

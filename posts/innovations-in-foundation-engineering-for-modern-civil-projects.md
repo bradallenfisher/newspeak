@@ -72,7 +72,7 @@ Their involvement ensures that foundations are not only structurally sound but a
 
 ---
 
-Foundation engineering is entering a transformative phase, driven by technological advancements and an increased focus on sustainability and resilience. To explore these concepts further and stay updated with the latest in the industry, visit this comprehensive resource on [foundation engineering](https://newspeak.today/foundation-engineering).
+Foundation engineering is entering a transformative phase, driven by technological advancements and an increased focus on sustainability and resilience. For further insights into the field of **foundation engineering**, visit [this comprehensive resource](https://newspeak.today/posts/foundation-engineering).
 
 **In conclusion**, adopting innovative foundation techniques and relying on expert geotechnical assessments are essential for the success of modern civil engineering projects. Embrace these advancements to build safer, more durable, and environmentally responsible structures.
 

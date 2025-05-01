@@ -49,10 +49,10 @@ Adherence to these **civil engineering** principles safeguards against common pi
 
 Throughout design and construction phases, the expertise of a **geotechnical engineer** is indispensable. Continuous monitoring and testing during pile installation help identify discrepancies early, allowing corrective actions to be taken promptly. Their insights guide choosing the appropriate **foundation type** and anticipating environmental or site-specific challenges.
 
-For further detailed insights into the field of **foundation engineering**, consider exploring expert resources like [Foundation Engineering](https://newspeak.today/foundation-engineering), which offer comprehensive guidance on best practices for soil-structure interaction and foundation solutions.
+For further detailed insights into the field of **foundation engineering**, consider exploring expert resources like [Foundation Engineering](https://newspeak.today/posts/foundation-engineering).
 
 ## Conclusion
 
 Mastering the design and construction techniques for pile foundations is essential for building stable and durable structures on problematic soils. Proper **foundation engineering**, combined with in-depth geotechnical investigations and meticulous construction methods, minimizes risks and ensures project success. To stay informed on the latest techniques and standards in pile foundations and broader foundation solutions, always consult trusted expert sources and engage qualified **geotechnical engineers** early in your project planning.
 
-**Start improving your foundation design knowledge today by visiting [Foundation Engineering](https://newspeak.today/foundation-engineering) and explore how advanced geotechnical solutions can elevate your civil engineering projects!**
+**Start improving your foundation design knowledge today by visiting [Foundation Engineering](https://newspeak.today/posts/foundation-engineering) and explore how advanced geotechnical solutions can elevate your civil engineering projects!**

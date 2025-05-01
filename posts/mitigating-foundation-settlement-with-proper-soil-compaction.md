@@ -62,7 +62,7 @@ Through controlled compaction:
 - Settlement magnitude and rate are significantly reduced.
 - Risks of costly structural repairs and safety concerns are minimized.
 
-For deeper insights into **foundation engineering** including soil compaction methods and foundation types, visit [this detailed resource](https://newspeak.today/foundation-engineering).
+For more detailed information on advanced foundation engineering practices including soil compaction methods and foundation types, visit [this detailed resource](https://newspeak.today/posts/foundation-engineering).
 
 ## Conclusion
 

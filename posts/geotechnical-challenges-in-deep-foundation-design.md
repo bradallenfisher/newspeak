@@ -46,7 +46,7 @@ While **shallow foundation** options are preferable for their ease and cost-effe
 
 Modern **foundation engineering** increasingly incorporates sophisticated diagnostic tools, numerical modeling, and innovative materials to address complex geotechnical challenges. These advancements improve prediction accuracy for soil-structure interaction and optimize foundation designs to meet demanding safety and durability standards.
 
-For more detailed insights into foundation engineering and innovative solutions in the field, visit [Newspeak Foundation Engineering](https://newspeak.today/foundation-engineering).
+For more detailed insights into foundation engineering and innovative solutions in the field, visit [Newspeak Foundation Engineering](https://newspeak.today/posts/foundation-engineering).
 
 ---
 

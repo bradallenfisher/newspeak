@@ -35,7 +35,7 @@ Different soil layers impose distinct challenges on pile behavior:
 3. **Dense Sands and Gravels**: Higher driving resistance but better load transfer.
 4. **Rock Layers**: Potentially provide excellent end-bearing support but may increase installation difficulty and equipment wear.
 
-The dynamic interaction between driven piles and these diverse soils affects the pile’s ultimate load capacity and settlement profiles.
+The dynamic interaction between driven piles and these diverse soils affects the pile's ultimate load capacity and settlement profiles.
 
 ## Selecting the Appropriate Foundation Type in Variable Soils
 
@@ -51,7 +51,7 @@ Pile installation often occurs alongside or within excavation works, which neces
 
 Driven piles are an indispensable component of modern **civil engineering** works when dealing with highly variable or challenging ground conditions. Integration of advanced testing methods and modeling enhances the understanding of pile-soil interaction, leading to safer, more economical foundation solutions.
 
-For further reading on foundation engineering practices and innovative methods to handle diverse soil conditions, visit [Foundation Engineering](https://newspeak.today/foundation-engineering).
+For further reading on foundation engineering practices and innovative methods to handle diverse soil conditions, visit [Foundation Engineering](https://newspeak.today/posts/foundation-engineering).
 
 ---
 

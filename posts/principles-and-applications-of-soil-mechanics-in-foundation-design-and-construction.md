@@ -61,7 +61,7 @@ Additionally, computational modeling tools enable **geotechnical engineers** to 
 
 ## Learn More About Foundation Engineering
 
-For professionals and students interested in deepening their understanding of **foundation engineering**, exploring resources dedicated to both theory and practical application is invaluable. A comprehensive overview can be found at [Newspeak Foundation Engineering](https://newspeak.today/foundation-engineering).
+For professionals and students interested in deepening their understanding of **foundation engineering**, exploring resources dedicated to both theory and practical application is invaluable. A comprehensive overview can be found at [Newspeak Foundation Engineering](https://newspeak.today/posts/foundation-engineering).
 
 ---
 
@@ -70,3 +70,5 @@ For professionals and students interested in deepening their understanding of **
 In summary, the principles of soil mechanics are fundamental to successful foundation design and construction. Accurate geotechnical analysis, careful selection of **foundation type**, and effective excavation practices collectively contribute to building safe and durable structures. For anyone involved in **civil engineering** or construction, mastering these concepts is essential.
 
 **Take the next step and explore in-depth resources to enhance your expertise in foundation engineering and contribute to building resilient infrastructure!**
+
+For more detailed insights on foundation engineering, visit [Newspeak Foundation Engineering](https://newspeak.today/posts/foundation-engineering).

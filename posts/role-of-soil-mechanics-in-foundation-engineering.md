@@ -59,6 +59,6 @@ They collaborate closely with structural engineers to ensure the foundation desi
 
 ## Conclusion
 
-In summary, **soil mechanics** is indispensable in **foundation engineering**. From analyzing soil properties and selecting the appropriate **foundation type**, to ensuring safe excavation and structural stability, the role of soil mechanics cannot be overstated. For a deeper dive into foundational topics and best practices, explore this comprehensive resource on [foundation engineering](https://newspeak.today/foundation-engineering).
+In summary, **soil mechanics** is indispensable in **foundation engineering**. From analyzing soil properties and selecting the appropriate **foundation type**, to ensuring safe excavation and structural stability, the role of soil mechanics cannot be overstated. For a deeper dive into foundational topics and best practices, explore this comprehensive resource on [foundation engineering](https://newspeak.today/posts/foundation-engineering).
 
 Strong foundations require strong soil knowledge — invest in **geotechnical** analysis to build the future securely.

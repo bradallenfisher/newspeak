@@ -68,6 +68,6 @@ Such innovations underscore the trend toward proactive and ecologically responsi
 
 Sustainable **foundation engineering** hinges on rigorous **geotechnical** analysis, careful selection of **foundation type**, and environmentally conscious construction practices. Embracing these design principles not only safeguards structural performance but also advances the larger goals of sustainable development in **civil engineering**.
 
-To dive deeper into modern practices and innovations in **foundation engineering**, visit this comprehensive resource on [foundation engineering](https://newspeak.today/foundation-engineering).
+For more detailed strategies and case studies in **foundation engineering**, visit [this comprehensive resource on foundation engineering](https://newspeak.today/posts/foundation-engineering).
 
 **Make sustainability the foundation of your next project.**

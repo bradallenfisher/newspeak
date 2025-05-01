@@ -44,7 +44,7 @@ Proper excavation ensures a **clean, stable bedrock surface** with minimal loose
 
 ## Addressing Geological Variability with Geotechnical Expertise
 
-Bedrock conditions can vary significantly over short distances, causing challenges in foundation design and construction. A **geotechnical** engineer’s role involves:
+Bedrock conditions can vary significantly over short distances, causing challenges in foundation design and construction. A **geotechnical** engineer's role involves:
 
 - Identifying zones of fractured or weathered rock  
 - Assessing groundwater presence and its impact on stability  
@@ -62,6 +62,6 @@ Engineers must balance these considerations with project-specific requirements, 
 
 Designing foundations on bedrock requires a thorough understanding of geotechnical conditions, careful **excavation**, and precise selection of the foundation type. Collaboration with experienced **geotechnical engineers** is essential for safe, efficient, and economical foundation engineering on rock substrates.
 
-For more detailed strategies and case studies in **foundation engineering**, visit [this comprehensive resource](https://newspeak.today/foundation-engineering).
+For more detailed strategies and case studies in **foundation engineering**, visit [this comprehensive resource](https://newspeak.today/posts/foundation-engineering).
 
-**Take action today**: Engage with qualified geotechnical professionals to evaluate your site’s bedrock conditions and optimize your foundation design for lasting performance.
+**Take action today**: Engage with qualified geotechnical professionals to evaluate your site's bedrock conditions and optimize your foundation design for lasting performance.

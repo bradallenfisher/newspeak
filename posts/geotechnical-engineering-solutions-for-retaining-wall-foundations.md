@@ -48,6 +48,6 @@ Such comprehensive evaluations lead to solutions tailored for site-specific chal
 
 Optimizing **foundation engineering** through informed **geotechnical** analysis is essential for constructing safe and effective retaining wall foundations. Engaging skilled **geotechnical engineers** and applying best practices in selecting the **foundation type** and managing **excavation** leads to resilient structures capable of withstanding diverse load conditions.
 
-For detailed insights into foundation engineering methods and solutions, explore [this comprehensive resource](https://newspeak.today/foundation-engineering).
+For detailed insights into foundation engineering methods and solutions, explore [this comprehensive resource](https://newspeak.today/posts/foundation-engineering).
 
 **Invest in expert geotechnical solutions today to build reliable retaining walls that stand the test of time.**

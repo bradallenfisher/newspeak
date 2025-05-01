@@ -64,7 +64,7 @@ These measures help deliver a solid and reliable base for shallow foundations, f
 
 Selecting the right **foundation type** depends on site-specific geotechnical data and design requirements. Civil engineers must carefully coordinate excavation processes consistent with foundation design, whether it involves piles, mat foundations, or rafts. Attention to excavation safety and site management enhances both project timelines and cost efficiency.
 
-To explore more about foundation engineering principles and site considerations, visit [Newspeak Foundation Engineering](https://newspeak.today/foundation-engineering).
+To explore more about foundation engineering principles and site considerations, visit [Newspeak Foundation Engineering](https://newspeak.today/posts/foundation-engineering).
 
 ### Conclusion
 

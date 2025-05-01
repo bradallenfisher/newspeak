@@ -57,6 +57,6 @@ Sustainability measures aligned with excavation practices further reduce the pro
 
 Advanced excavation approaches are indispensable in modern **foundation engineering**, ensuring that installations are stable, safe, and cost-effective. Grounded in comprehensive **geotechnical** analysis and supported by innovative technologies, excavation work sets the foundation for successful civil engineering projects.
 
-For those interested in more detailed insights on foundation techniques and engineering, visit [Foundation Engineering](https://newspeak.today/foundation-engineering).
+For those interested in more detailed insights on foundation techniques and engineering, visit [Foundation Engineering](https://newspeak.today/posts/foundation-engineering).
 
 **Stay ahead in foundation engineering—embrace innovative excavation technologies and expert geotechnical collaboration today!**

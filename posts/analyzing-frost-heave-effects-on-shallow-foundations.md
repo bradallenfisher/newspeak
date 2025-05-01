@@ -75,7 +75,7 @@ Addressing frost heave effects requires close collaboration between civil engine
 
 Leveraging advances in **foundation engineering** supports infrastructure resilience even in harsh climates.
 
-For more detailed information on advanced foundation engineering practices including frost heave considerations, visit [Newspeak's Foundation Engineering](https://newspeak.today/foundation-engineering).
+For more detailed information on advanced foundation engineering practices including frost heave considerations, visit [Newspeak's Foundation Engineering](https://newspeak.today/posts/foundation-engineering).
 
 ---
 

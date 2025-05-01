@@ -1,12 +1,12 @@
 ---
-title: "Structural Engineer’s Guide to Foundation Selection"
+title: "Structural Engineer's Guide to Foundation Selection"
 date: 2025-04-29
 image: "/media/structural-engineer-s-guide-to-foundation-selection.webp"
 tags:
   - post
 ---
 
-![Structural Engineer’s Guide to Foundation Selection](/media/structural-engineer-s-guide-to-foundation-selection.webp)
+![Structural Engineer's Guide to Foundation Selection](/media/structural-engineer-s-guide-to-foundation-selection.webp)
 
 Selecting the right foundation is a pivotal decision in **foundation engineering** that directly impacts the longevity and safety of any structure. Structural engineers must evaluate numerous factors to determine the most suitable **foundation type** depending on site conditions, loads, and environmental considerations. This guide presents key insights to help engineers navigate the complexities of foundation selection from a **geotechnical** and civil engineering perspective.
 
@@ -72,7 +72,7 @@ Beyond soil mechanics and structural loads, **civil engineering** principles inf
 - Integration with site drainage and stormwater management  
 - Mitigation of seismic, erosion, or freeze-thaw impacts  
 
-These factors collectively influence the durability and performance of the foundation over the structure’s lifespan.
+These factors collectively influence the durability and performance of the foundation over the structure's lifespan.
 
 ## Exploring Different Foundation Types
 
@@ -85,7 +85,7 @@ Common **foundation types** in the industry encompass:
 
 Learning the characteristics and typical use cases for each type helps engineers tailor solutions to project needs and site constraints.
 
-For a deeper dive into advanced concepts and case studies in **foundation engineering**, visit [Newspeak Foundation Engineering](https://newspeak.today/foundation-engineering).
+For a deeper dive into advanced concepts and case studies in **foundation engineering**, visit [Newspeak Foundation Engineering](https://newspeak.today/posts/foundation-engineering).
 
 ## Conclusion
 

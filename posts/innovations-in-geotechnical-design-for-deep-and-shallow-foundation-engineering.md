@@ -72,7 +72,7 @@ Through a blend of experience and innovative approaches, geotechnical engineers 
 
 ---
 
-For more in-depth insights on **foundation engineering**, including detailed case studies and emerging trends, visit [foundation engineering resources](https://newspeak.today/foundation-engineering).
+For more in-depth insights on **foundation engineering**, including detailed case studies and emerging trends, visit [foundation engineering resources](https://newspeak.today/posts/foundation-engineering).
 
 ### Conclusion
 
