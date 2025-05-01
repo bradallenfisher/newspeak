@@ -1,8 +1,9 @@
 {
+    "cleanUrls": true,
     "redirects": [
       {
-        "source": "/:path*",
-        "destination": "/",
+        "source": "/articles/13",
+        "destination": "/posts/beyond-the-bank",
         "permanent": true
       }
     ]
