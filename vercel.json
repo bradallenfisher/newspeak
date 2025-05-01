@@ -3,7 +3,7 @@
     "redirects": [
       {
         "source": "/articles/13",
-        "destination": "/foundation-engineering",
+        "destination": "/posts/foundation-engineering",
         "permanent": true
       }
     ]
