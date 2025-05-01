@@ -1,12 +1,12 @@
 ---
 title: "The Impact of Clay Soils on Foundation Stability"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/the-impact-of-clay-soils-on-foundation-stability.webp"
 tags:
   - post
 ---
 
-![The Impact of Clay Soils on Foundation Stability](/media/your-post-image.jpg)
+![The Impact of Clay Soils on Foundation Stability](/media/the-impact-of-clay-soils-on-foundation-stability.webp)
 
 Clay soils present significant challenges in the field of **foundation engineering** due to their unique geotechnical properties. Understanding how clay affects **foundation stability** is crucial for civil engineers, geotechnical engineers, and construction professionals who seek to design safe, durable structures.
 

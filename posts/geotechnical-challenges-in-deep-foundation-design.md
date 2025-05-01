@@ -1,12 +1,12 @@
 ---
 title: "Geotechnical Challenges in Deep Foundation Design"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/geotechnical-challenges-in-deep-foundation-design.webp"
 tags:
   - post
 ---
 
-![Geotechnical Challenges in Deep Foundation Design](/media/your-post-image.jpg)
+![Geotechnical Challenges in Deep Foundation Design](/media/geotechnical-challenges-in-deep-foundation-design.webp)
 
 Deep foundation design is a critical aspect of **foundation engineering**, particularly for structures requiring robust support in complex soil conditions. Unlike shallow foundation systems, deep foundations transfer loads to deeper, more stable soil layers or rock formations. This engineering solution often comes with distinct **geotechnical** challenges that demand careful analysis and design to ensure structural safety and performance.
 

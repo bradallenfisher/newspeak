@@ -1,12 +1,12 @@
 ---
 title: "Geotechnical Design Principles for Sustainable Foundation Engineering"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/geotechnical-design-principles-for-sustainable-foundation-engineering.webp"
 tags:
   - post
 ---
 
-![Geotechnical Design Principles for Sustainable Foundation Engineering](/media/your-post-image.jpg)
+![Geotechnical Design Principles for Sustainable Foundation Engineering](/media/geotechnical-design-principles-for-sustainable-foundation-engineering.webp)
 
 Sustainable **foundation engineering** has become a pivotal aspect of modern **civil engineering**, aiming to balance structural integrity with environmental stewardship. The foundations are the critical interface between a structure and the ground, and applying **geotechnical** principles ensures safety while promoting sustainability.
 

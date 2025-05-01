@@ -1,12 +1,12 @@
 ---
 title: "Mitigating Foundation Settlement with Proper Soil Compaction"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/mitigating-foundation-settlement-with-proper-soil-compaction.webp"
 tags:
   - post
 ---
 
-![Mitigating Foundation Settlement with Proper Soil Compaction](/media/your-post-image.jpg)
+![Mitigating Foundation Settlement with Proper Soil Compaction](/media/mitigating-foundation-settlement-with-proper-soil-compaction.webp)
 
 Foundation settlement is a critical issue in **foundation engineering** that can lead to structural damage, costly repairs, and safety hazards. One of the most effective ways to reduce settlement risks is through **proper soil compaction** during the early stages of construction. This process ensures the **geotechnical** properties of the soil are optimized to support the weight of structures, especially for **shallow foundation** systems widely used in civil and foundation projects.
 

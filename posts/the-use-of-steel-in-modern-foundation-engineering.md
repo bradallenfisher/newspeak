@@ -1,12 +1,12 @@
 ---
 title: "The Use of Steel in Modern Foundation Engineering"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/the-use-of-steel-in-modern-foundation-engineering.webp"
 tags:
   - post
 ---
 
-![The Use of Steel in Modern Foundation Engineering](/media/your-post-image.jpg)
+![The Use of Steel in Modern Foundation Engineering](/media/the-use-of-steel-in-modern-foundation-engineering.webp)
 
 Steel has become an indispensable material in **foundation engineering**, transforming the way foundations are designed and constructed in modern civil engineering projects. Its unique properties of strength, ductility, and durability make it an ideal choice for supporting various structures, from residential buildings to large-scale industrial facilities. This article explores the essential role of steel in foundation engineering, highlighting its integration with geotechnical principles and its advantages in different foundation types.
 

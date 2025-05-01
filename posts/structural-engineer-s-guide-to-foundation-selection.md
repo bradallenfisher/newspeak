@@ -1,12 +1,12 @@
 ---
 title: "Structural Engineer’s Guide to Foundation Selection"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/structural-engineer-s-guide-to-foundation-selection.webp"
 tags:
   - post
 ---
 
-![Structural Engineer’s Guide to Foundation Selection](/media/your-post-image.jpg)
+![Structural Engineer’s Guide to Foundation Selection](/media/structural-engineer-s-guide-to-foundation-selection.webp)
 
 Selecting the right foundation is a pivotal decision in **foundation engineering** that directly impacts the longevity and safety of any structure. Structural engineers must evaluate numerous factors to determine the most suitable **foundation type** depending on site conditions, loads, and environmental considerations. This guide presents key insights to help engineers navigate the complexities of foundation selection from a **geotechnical** and civil engineering perspective.
 

@@ -1,12 +1,12 @@
 ---
 title: "Practical Considerations for Designing Foundations on Bedrock"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/practical-considerations-for-designing-foundations-on-bedrock.webp"
 tags:
   - post
 ---
 
-![Practical Considerations for Designing Foundations on Bedrock](/media/your-post-image.jpg)
+![Practical Considerations for Designing Foundations on Bedrock](/media/practical-considerations-for-designing-foundations-on-bedrock.webp)
 
 Designing foundations on bedrock presents unique challenges and opportunities in the field of **foundation engineering**. Unlike soil or loose sediments, bedrock offers an inherently stable and strong base. However, its complex geological characteristics require careful assessment by a **geotechnical engineer** to ensure safety, durability, and cost-effectiveness. This article highlights key practical considerations and best practices for foundation design on bedrock, supporting professionals in **civil engineering** and related disciplines.
 

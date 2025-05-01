@@ -1,12 +1,12 @@
 ---
 title: "Optimizing Bearing Capacity in Shallow Foundations"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/optimizing-bearing-capacity-in-shallow-foundations.webp"
 tags:
   - post
 ---
 
-![Optimizing Bearing Capacity in Shallow Foundations](/media/your-post-image.jpg)
+![Optimizing Bearing Capacity in Shallow Foundations](/media/optimizing-bearing-capacity-in-shallow-foundations.webp)
 
 In **foundation engineering**, ensuring the adequate **bearing capacity** of shallow foundations is vital for safe and durable structural support. Understanding soil mechanics and applying best **geotechnical** practices can greatly enhance the performance and longevity of shallow foundations, minimizing settlement and failure risks.
 

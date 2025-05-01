@@ -1,12 +1,12 @@
 ---
 title: "Integrating Reinforced Concrete in Foundation Systems"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/integrating-reinforced-concrete-in-foundation-systems.webp"
 tags:
   - post
 ---
 
-![Integrating Reinforced Concrete in Foundation Systems](/media/your-post-image.jpg)
+![Integrating Reinforced Concrete in Foundation Systems](/media/integrating-reinforced-concrete-in-foundation-systems.webp)
 
 Reinforced concrete has become a cornerstone in modern **foundation engineering**, offering strength, durability, and versatility in supporting structures. Integrating reinforced concrete in foundation systems addresses complex challenges in soil mechanics and load distribution, creating safe and efficient building bases. This article explores the integration of reinforced concrete in various types of foundations, providing insights valuable for geotechnical engineers and civil engineering professionals alike.
 

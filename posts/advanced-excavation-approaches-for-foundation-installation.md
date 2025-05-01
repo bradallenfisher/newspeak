@@ -1,12 +1,12 @@
 ---
 title: "Advanced Excavation Approaches for Foundation Installation"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/advanced-excavation-approaches-for-foundation-installation.webp"
 tags:
   - post
 ---
 
-![Advanced Excavation Approaches for Foundation Installation](/media/your-post-image.jpg)
+![Advanced Excavation Approaches for Foundation Installation](/media/advanced-excavation-approaches-for-foundation-installation.webp)
 
 Excavation plays a **critical role** in the success of any foundation installation, impacting the overall stability and durability of structures. In **foundation engineering**, modern excavation techniques are increasingly essential due to the growing complexity of civil projects and demanding site conditions. Understanding advanced excavation methods not only supports efficient construction but also enhances safety and precision in foundation work.
 

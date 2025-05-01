@@ -1,12 +1,12 @@
 ---
 title: "Innovations in Foundation Engineering for Modern Civil Projects"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/innovations-in-foundation-engineering-for-modern-civil-projects.webp"
 tags:
   - post
 ---
 
-![Innovations in Foundation Engineering for Modern Civil Projects](/media/your-post-image.jpg)
+![Innovations in Foundation Engineering for Modern Civil Projects](/media/innovations-in-foundation-engineering-for-modern-civil-projects.webp)
 
 In the realm of **civil engineering**, the foundation plays a crucial role in the stability and longevity of any structure. As urban landscapes evolve, so does the science behind **foundation engineering**, addressing increasingly complex challenges posed by diverse soil conditions, environmental factors, and innovative building designs. This article delves into some of the latest advancements in **foundation** techniques and technologies that are shaping the future of modern civil projects.
 

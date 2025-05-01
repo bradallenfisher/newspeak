@@ -1,12 +1,12 @@
 ---
 title: "Soil Classification and Its Influence on Foundation Types"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/soil-classification-and-its-influence-on-foundation-types.webp"
 tags:
   - post
 ---
 
-![Soil Classification and Its Influence on Foundation Types](/media/your-post-image.jpg)
+![Soil Classification and Its Influence on Foundation Types](/media/soil-classification-and-its-influence-on-foundation-types.webp)
 
 Understanding **soil classification** is a cornerstone in the field of **foundation engineering**. The type and properties of soil at a construction site directly influence the selection of an appropriate **foundation type**, ensuring structural stability and longevity. This article explores the relationship between soil characteristics and foundation design, highlighting the key factors geotechnical engineers consider during site assessment.
 

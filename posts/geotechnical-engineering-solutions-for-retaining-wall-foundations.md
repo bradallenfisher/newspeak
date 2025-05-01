@@ -1,12 +1,12 @@
 ---
 title: "Geotechnical Engineering Solutions for Retaining Wall Foundations"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/geotechnical-engineering-solutions-for-retaining-wall-foundations.webp"
 tags:
   - post
 ---
 
-![Geotechnical Engineering Solutions for Retaining Wall Foundations](/media/your-post-image.jpg)
+![Geotechnical Engineering Solutions for Retaining Wall Foundations](/media/geotechnical-engineering-solutions-for-retaining-wall-foundations.webp)
 
 Retaining walls are critical structures in civil engineering projects, designed to hold back soil and prevent erosion or landslides. The **stability and longevity** of retaining walls largely depend on the design and construction of their foundations. This is where **geotechnical engineering** principles play a crucial role, ensuring that the foundation can support the loads imposed by retained soil and external forces effectively.
 

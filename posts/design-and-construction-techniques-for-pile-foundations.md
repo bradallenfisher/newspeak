@@ -1,12 +1,12 @@
 ---
 title: "Design and Construction Techniques for Pile Foundations"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/design-and-construction-techniques-for-pile-foundations.webp"
 tags:
   - post
 ---
 
-![Design and Construction Techniques for Pile Foundations](/media/your-post-image.jpg)
+![Design and Construction Techniques for Pile Foundations](/media/design-and-construction-techniques-for-pile-foundations.webp)
 
 Pile foundations play a critical role in **foundation engineering**, especially when dealing with challenging soil conditions that cannot support shallow foundations. These deep foundation systems transfer structural loads through weak surface soils to stronger, more stable layers deep underground. Understanding the proper design and construction techniques of pile foundations is essential for any **geotechnical engineer** aiming to ensure stability and longevity in civil engineering projects.
 

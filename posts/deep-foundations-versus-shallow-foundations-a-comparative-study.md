@@ -1,12 +1,12 @@
 ---
 title: "Deep Foundations Versus Shallow Foundations: A Comparative Study"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/deep-foundations-versus-shallow-foundations-a-comparative-study.webp"
 tags:
   - post
 ---
 
-![Deep Foundations Versus Shallow Foundations: A Comparative Study](/media/your-post-image.jpg)
+![Deep Foundations Versus Shallow Foundations: A Comparative Study](/media/deep-foundations-versus-shallow-foundations-a-comparative-study.webp)
 
 In the field of **foundation engineering**, selecting the appropriate *foundation type* is critical to ensuring structural stability and longevity. The two primary categories—**deep foundations** and **shallow foundations**—differ not only in their design and application but also in how they interact with the soil or bedrock substrata. This comparative study explores the distinctions between these two foundation systems, highlighting their key features, advantages, and limitations.
 

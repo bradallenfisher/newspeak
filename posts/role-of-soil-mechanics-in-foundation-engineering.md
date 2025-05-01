@@ -1,12 +1,12 @@
 ---
 title: "Role of Soil Mechanics in Foundation Engineering"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/role-of-soil-mechanics-in-foundation-engineering.webp"
 tags:
   - post
 ---
 
-![Role of Soil Mechanics in Foundation Engineering](/media/your-post-image.jpg)
+![Role of Soil Mechanics in Foundation Engineering](/media/role-of-soil-mechanics-in-foundation-engineering.webp)
 
 **Foundation engineering** is a critical branch of *civil engineering* focused on designing and constructing the base that supports structures. One of the key disciplines that underpins foundation engineering is **soil mechanics**, which studies the behavior of soil under various conditions. Understanding soil mechanics is essential for any *geotechnical engineer* to create safe, stable, and cost-effective foundations.
 

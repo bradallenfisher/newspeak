@@ -1,12 +1,12 @@
 ---
 title: "Excavation Safety and Management in Foundation Construction"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/excavation-safety-and-management-in-foundation-construction.webp"
 tags:
   - post
 ---
 
-![Excavation Safety and Management in Foundation Construction](/media/your-post-image.jpg)
+![Excavation Safety and Management in Foundation Construction](/media/excavation-safety-and-management-in-foundation-construction.webp)
 
 Excavation plays a **crucial role** in the success of any foundation construction project. Proper excavation safety and management practices are vital to ensure the stability of the site, the safety of workers, and the longevity of the foundation itself. This article delves into key principles and considerations in excavation for foundation engineering, highlighting essential practices that civil and geotechnical engineers must implement.
 

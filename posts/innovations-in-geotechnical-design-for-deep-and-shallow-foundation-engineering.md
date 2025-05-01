@@ -1,12 +1,12 @@
 ---
 title: "Innovations in Geotechnical Design for Deep and Shallow Foundation Engineering"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/innovations-in-geotechnical-design-for-deep-and-shallow-foundation-engineering.webp"
 tags:
   - post
 ---
 
-![Innovations in Geotechnical Design for Deep and Shallow Foundation Engineering](/media/your-post-image.jpg)
+![Innovations in Geotechnical Design for Deep and Shallow Foundation Engineering](/media/innovations-in-geotechnical-design-for-deep-and-shallow-foundation-engineering.webp)
 
 In the domain of **foundation engineering**, continuous innovation drives safer, more efficient construction, especially when working with both deep and shallow foundation types. As urban environments expand vertically and infrastructure projects grow more complex, **geotechnical** challenges demand novel solutions. This article explores some of the latest advancements that are reshaping how **geotechnical engineers** tackle foundation design, excavation, and soil stabilization.
 

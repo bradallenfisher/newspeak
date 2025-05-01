@@ -1,12 +1,12 @@
 ---
 title: "Behavior of Driven Piles in Variable Soil Conditions"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/behavior-of-driven-piles-in-variable-soil-conditions.webp"
 tags:
   - post
 ---
 
-![Behavior of Driven Piles in Variable Soil Conditions](/media/your-post-image.jpg)
+![Behavior of Driven Piles in Variable Soil Conditions](/media/behavior-of-driven-piles-in-variable-soil-conditions.webp)
 
 Understanding the **behavior of driven piles** in variable soil conditions is critical within the realm of **foundation engineering**. Driven piles are a popular choice in geotechnical projects to transfer loads from superstructures to deeper, more stable soil layers. However, soil variability—ranging from soft clays to dense sands and rock—significantly impacts pile performance, requiring careful consideration by civil and geotechnical engineers.
 

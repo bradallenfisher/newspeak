@@ -1,12 +1,12 @@
 ---
 title: "Innovative Retaining Wall Designs for Challenging Soil Profiles"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/innovative-retaining-wall-designs-for-challenging-soil-profiles.webp"
 tags:
   - post
 ---
 
-![Innovative Retaining Wall Designs for Challenging Soil Profiles](/media/your-post-image.jpg)
+![Innovative Retaining Wall Designs for Challenging Soil Profiles](/media/innovative-retaining-wall-designs-for-challenging-soil-profiles.webp)
 
 Retaining walls play a crucial role in **foundation engineering** by stabilizing soils and preventing erosion on slopes or excavations. However, when dealing with **challenging soil profiles**, traditional retaining wall designs often fall short due to unpredictable soil behavior and varying load conditions. Modern advancements in **geotechnical** methods and **foundation** types have paved the way for innovative retaining wall solutions that ensure durability and safety.
 

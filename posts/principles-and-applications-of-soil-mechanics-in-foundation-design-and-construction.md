@@ -1,12 +1,12 @@
 ---
 title: "Principles and Applications of Soil Mechanics in Foundation Design and Construction"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/principles-and-applications-of-soil-mechanics-in-foundation-design-and-construction.webp"
 tags:
   - post
 ---
 
-![Principles and Applications of Soil Mechanics in Foundation Design and Construction](/media/your-post-image.jpg)
+![Principles and Applications of Soil Mechanics in Foundation Design and Construction](/media/principles-and-applications-of-soil-mechanics-in-foundation-design-and-construction.webp)
 
 **Soil mechanics** plays a pivotal role in the field of **foundation engineering**, providing the essential knowledge to design stable and safe foundations for a wide array of structures. Understanding the behavior of soil under various loads enables engineers to choose the appropriate **foundation type** and ensure long-lasting performance. This article explores the fundamental principles of soil mechanics and their applications in modern **foundation** design and construction.
 

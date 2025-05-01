@@ -1,12 +1,12 @@
 ---
 title: "Analyzing Frost Heave Effects on Shallow Foundations"
 date: 2025-04-29
-image: "/media/your-post-image.jpg"
+image: "/media/analyzing-frost-heave-effects-on-shallow-foundations.webp"
 tags:
   - post
 ---
 
-![Analyzing Frost Heave Effects on Shallow Foundations](/media/your-post-image.jpg)
+![Analyzing Frost Heave Effects on Shallow Foundations](/media/analyzing-frost-heave-effects-on-shallow-foundations.webp)
 
 Frost heave is a critical consideration in **foundation engineering**, especially when designing and constructing **shallow foundations** in cold climate regions. This natural phenomenon occurs when water in the soil freezes, expands, and causes the ground to uplift, potentially damaging structural elements. Understanding the interaction between frost heave and **foundation types** is essential for **geotechnical engineers** and **civil engineering** professionals striving for durable and safe structures.
 
