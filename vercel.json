@@ -3,8 +3,8 @@
     "redirects": [
       {
         "source": "/articles/13",
-        "destination": "/posts/beyond-the-bank",
+        "destination": "/foundation-engineering",
         "permanent": true
       }
     ]
-  }
+  } 
