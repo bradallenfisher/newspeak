@@ -91,6 +91,8 @@ Different soil types present unique challenges for foundations. **Clay** soils
 
 Common methods include open cuts, trenching, and deep **excavation** with shoring systems. Safety and minimizing disturbance to surrounding areas are primary concerns. Precise excavation is vital for accurate foundation placement.
 
+Typical projects in a [foundation repair project](https://egerexco.com/) may look like this.
+
 ## Retaining Walls and Their Integration with Foundations
 
 **Retaining walls** hold back soil, often necessary for sloped sites or basements. They must be designed considering the pressure exerted by the retained earth. Their stability is often linked to the building's **foundation**.
