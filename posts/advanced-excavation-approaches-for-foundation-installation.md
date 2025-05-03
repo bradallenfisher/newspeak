@@ -23,7 +23,7 @@ Foundations vary widely—ranging from shallow foundations such as spread footin
 - **Shallow foundation** excavation typically involves open excavation and precise soil removal techniques.
 - For deep foundations, specialized drilling and trenchless technologies minimize soil disturbance while providing access for pile installation.
 
-Advanced machinery, including **hydraulic excavators**, augers, and trench shields, allow for controlled, safe, and faster excavation, accommodating complex soil profiles encountered during **foundation engineering**.
+Advanced machinery, including **hydraulic excavators**, augers, and trench shields, [allow for controlled, safe, and faster excavation](https://egerexco.com/foundation-excavation-services-state-college-pa/), accommodating complex soil profiles encountered during **foundation engineering**.
 
 ## Innovative Techniques in Foundation Excavation
 
