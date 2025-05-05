@@ -1,6 +1,5 @@
 const { DateTime } = require("luxon");
 const markdownIt = require("markdown-it");
-const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("css");
@@ -23,10 +22,4 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.setLibrary("md", markdownLib);
 
-    // Add sitemap plugin
-    eleventyConfig.addPlugin(sitemap, {
-        sitemap: {
-            hostname: "https://newspeak.today",
-        },
-    });
 };
